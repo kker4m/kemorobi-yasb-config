@@ -5,6 +5,9 @@ Windows'umun **yasb**, **komorebi**, **whkdrc** konfigürasyon dosyalarını rep
 
 Kurulum adımlarını YouTube'dan izleyebilirsiniz: [https://youtu.be/5HLV4ftJ32U](https://youtu.be/5HLV4ftJ32U)
 
+### Yasb İkonlarının Gözükmeme Problemi
+JetBrainsMono NFP fontunu [buradan](https://www.jetbrains.com/lp/mono/) indirerek ikonlarin gözükmesini sağlayabilirsiniz.
+
 ### Komorebi'ye Animasyon Ekleme
 `komorebi.json` dosyasının içerisine aşağıdaki kodu ekleyiniz:
 
